@@ -1,0 +1,17 @@
+C:\Users\Bosun\source\repos\buttonform\buttonform\bin\Debug\net6.0-windows\buttonform.exe
+C:\Users\Bosun\source\repos\buttonform\buttonform\bin\Debug\net6.0-windows\buttonform.deps.json
+C:\Users\Bosun\source\repos\buttonform\buttonform\bin\Debug\net6.0-windows\buttonform.runtimeconfig.json
+C:\Users\Bosun\source\repos\buttonform\buttonform\bin\Debug\net6.0-windows\buttonform.dll
+C:\Users\Bosun\source\repos\buttonform\buttonform\bin\Debug\net6.0-windows\buttonform.pdb
+C:\Users\Bosun\source\repos\buttonform\buttonform\obj\Debug\net6.0-windows\buttonform.csproj.AssemblyReference.cache
+C:\Users\Bosun\source\repos\buttonform\buttonform\obj\Debug\net6.0-windows\buttonform.Form1.resources
+C:\Users\Bosun\source\repos\buttonform\buttonform\obj\Debug\net6.0-windows\buttonform.csproj.GenerateResource.cache
+C:\Users\Bosun\source\repos\buttonform\buttonform\obj\Debug\net6.0-windows\buttonform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bosun\source\repos\buttonform\buttonform\obj\Debug\net6.0-windows\buttonform.AssemblyInfoInputs.cache
+C:\Users\Bosun\source\repos\buttonform\buttonform\obj\Debug\net6.0-windows\buttonform.AssemblyInfo.cs
+C:\Users\Bosun\source\repos\buttonform\buttonform\obj\Debug\net6.0-windows\buttonform.csproj.CoreCompileInputs.cache
+C:\Users\Bosun\source\repos\buttonform\buttonform\obj\Debug\net6.0-windows\buttonform.dll
+C:\Users\Bosun\source\repos\buttonform\buttonform\obj\Debug\net6.0-windows\refint\buttonform.dll
+C:\Users\Bosun\source\repos\buttonform\buttonform\obj\Debug\net6.0-windows\buttonform.pdb
+C:\Users\Bosun\source\repos\buttonform\buttonform\obj\Debug\net6.0-windows\buttonform.genruntimeconfig.cache
+C:\Users\Bosun\source\repos\buttonform\buttonform\obj\Debug\net6.0-windows\ref\buttonform.dll
